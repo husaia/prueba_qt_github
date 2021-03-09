@@ -8,6 +8,7 @@ int main(int argc, char *argv[])
     MainWindow w;
     w.show();
     // vamos a calar el pull a ver si jala
+    // si jalo oh si oh si
     QMessageBox msg;
     msg.setText("alv no me sale lo que quiero hacer");
     msg.exec();
