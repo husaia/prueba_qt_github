@@ -8,7 +8,7 @@ int main(int argc, char *argv[])
     MainWindow w;
     w.show();
     QMessageBox msg;
-    msg.setText("este es el tercer intento");
+    msg.setText("alv no me sale lo que quiero hacer");
     msg.exec();
     return a.exec();
 
